@@ -1,0 +1,3 @@
+void Error(){
+    cout << "ERROR";
+}

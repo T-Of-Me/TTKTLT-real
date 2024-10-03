@@ -1,0 +1,106 @@
+bdattt123
+1000ABCA
+5.6
+tung c
+5
+6
+2005
+bdattt123
+12121212
+5.6
+tung a
+9
+5
+2005
+anhttt123
+12345678
+5.6
+bao ngoc
+12
+6
+2005
+bdattt123
+11111111
+5.6
+duy duy 
+16
+10
+2013
+bdattt123
+10045678
+5.6
+nguyen vu thao
+15
+3
+2005
+bdattt123
+11100678
+7
+tran phu
+26
+9
+2005
+bdattt123
+AA344678
+9
+tran hai nam 
+24
+8
+2005
+bdattt123
+BB345678
+5.6
+hoang anh vu
+30
+1
+2005
+bdattt123
+CC345678
+5.6
+tran trong nam
+9
+5
+2005
+bdattt123
+12345678
+3.5
+hoang anh nam
+8
+3
+2005
+bdattt123
+10000000
+5.6
+tran ngon bich
+15
+10
+2005
+bdattt123
+1000000A
+5.6
+do anh tai
+5
+12
+2005
+bdattt123
+12345678
+5.6
+lo thi anh
+4
+4
+2005
+bdattt123
+1000112P
+5.6
+bui hai lo
+7
+9
+2005
+bdattt123
+12345678
+4,6
+tran dan
+23
+3
+2014
+
